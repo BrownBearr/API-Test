@@ -1,0 +1,15 @@
+#title{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: darkblue;
+}
+
+#abstract{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkgray;
+}
+
+#refresh{
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    background-color: aliceblue;
+}
